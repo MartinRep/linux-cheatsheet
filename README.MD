@@ -1,4 +1,4 @@
-# Usefull Linux commands
+# Useful Linux commands
 
 - Redo last command as root
 `sudo !!`
